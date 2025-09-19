@@ -1,0 +1,98 @@
+table {
+    background-color: antiquewhite;
+    width: 100%;
+     border: 2px groove black;
+    font-family:  Arial, Helvetica, sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+    width: auto;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+}
+
+.nav {
+    text-align: right;
+    width: 80%;
+    padding-right: 390px;
+}
+
+
+.nav a {
+    padding: 3px;
+    border: 2px solid black;
+    margin: 2px;
+    text-decoration: none;
+    font-weight:normal;
+    color: black;
+    font-size: larger;
+}
+
+h3 {
+    background-color: bisque;
+    border: 2px solid black;   
+    padding: 8px;
+    float: right;             
+    margin: 30px;
+    margin-left: 15px;   
+    width: 15%;                
+    text-align: center;        
+    font-family: sans-serif;
+    
+}
+
+.image-section {
+    text-align: center;
+    margin: 20px;
+}
+
+.image-section img {
+    max-width: 100%;  
+    height: auto;
+}
+
+.content-text {
+    text-align:center;
+    font-size: 18px;
+    margin: 10px auto;
+    width: 90%;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid black;
+    margin: 20px;
+}
+
+.image-left{
+    width:350px;
+    height: auto;
+    margin-right:10px;
+}
+
+.image3{
+    width:350px;
+    height: auto;
+    margin-right:5px;
+}
+
+p{
+    text-align: justify;
+    font-size: 25px;
+    background-color:blanchedalmond;
+}
+
+.right-image {
+  float: right;
+  width: 360px;
+  margin-left: 40px auto; 
+}
+
+h2{
+    text-align: justify;
+    font-size:xx-large;
+    font-weight: bold;
+}

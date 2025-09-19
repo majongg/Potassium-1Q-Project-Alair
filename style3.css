@@ -1,0 +1,90 @@
+table {
+    background-color: antiquewhite;
+    width: 100%;
+    border: 2px groove black ;
+    font-family:  Arial, Helvetica, sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+    width: auto;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid black;
+    margin: 20px;
+}
+
+.nav {
+    text-align: right;
+    width: 80%;
+    padding-right: 390px;
+}
+
+
+.nav a {
+    border: 2px solid black ;
+    padding: 3px;
+    margin: 2px;
+    text-decoration: none;
+    font-weight:normal;
+    color: black;
+    font-size: larger;
+}
+
+h3 {
+    background-color: #ffe4c4;
+    border: 2px solid black ;   
+    padding: 8px;
+    float: right;             
+    margin: 30px;
+    margin-left: 15px;   
+    width: 15%;                
+    text-align: center;        
+    font-family: sans-serif;
+    
+}
+
+.image01 {
+   float: left;
+   width: 550px;
+   height: auto;
+   margin: 10px;
+   border: 2px solid black;
+   margin-top: auto;
+}
+
+.text {
+    margin-top: 105px;
+    text-align: justify;
+    font-size: 23px;
+}
+
+.image-section {
+    text-align: justify;
+    margin: 20px;
+    font-size: xx-large;
+}
+
+.image-section img {
+    max-width: 100%;  
+    height: auto;
+    border: 2px solid black;
+}
+
+.image-section2 {
+    text-align: justify;
+    margin: 20px;
+    font-size: xx-large;
+}
+
+.image-section2 img {
+    max-width: 100%;  
+    height: auto;
+    border: 2px solid black;
+}
